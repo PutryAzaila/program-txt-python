@@ -1,0 +1,5 @@
+1,Shampoo,10000
+2,Dress,150000
+3,Topi,50000
+4,Earphone,100000
+5,Sepatu,300000
